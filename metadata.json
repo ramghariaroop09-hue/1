@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI",
+  "description": "Futuristic endpoint cybersecurity command center with animated threat telemetry, entropy analysis, link shield, and zero-trust protocol audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
